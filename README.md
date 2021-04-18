@@ -14,6 +14,7 @@ _*And low server costs. A task worth >$5 often only costs <$0.001 in electriciti
 _Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns_
 - specific errors of readme.md's 
 - syntax debugging in all file types / code languages. 
+
 - **Specific Category Example:** ( from our experience ) the following tiny, rare task alone might have been done a million times in history (by 1000s of people)
   - Syncing lines from all Browser-Extensions, from their english languages files (en/messages.json), to all their other existing languages files.  (_specifically  https://((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )
   - this task wont mean a lot every time. However developers will feel good to see it & start to expect more pull requests.
