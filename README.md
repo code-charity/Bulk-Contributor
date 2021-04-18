@@ -4,8 +4,8 @@
   - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
      - **What about Bots making Pull requests in global Open-Source projects**
      - Goal / 'Milestone1':   
-           - Quantity:  > 1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** spending only < 3000 hours here*
-           - Quality: Denied pull requests < 10% and average amount of 👍❤'s per pull request > 0.5? (initially people get used to it)    
+          - Quantity:  > 1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** spending only < 3000 hours here
+          - Quality: Denied pull requests < 10% and average amount of 👍❤'s per pull request > 0.5? (initially people get used to it)    
 
 _And low server costs. A task worth >$5 often only costs <$0.001 in electricitiy. So donations could be raised for hungry people. Old News: There is Abundance. And opportunity, only society, thats is bitter..._ 🤔 
 
