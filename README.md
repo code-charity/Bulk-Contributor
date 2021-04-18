@@ -17,11 +17,11 @@ _Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Que
 - **Specific Category Example:** ( from our experience ) the following tiny, rare task alone might have been done a million times in history (by 1000s of people)
   - Syncing lines from all Browser-Extensions, from their english languages files (en/messages.json), to all their other existing languages files.  (_specifically  https://((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )
   - this task wont mean a lot every time. However developers will feel good to see it & start to expect more pull requests.
-  - it is unlikely than any pull-requests will be denied.
-  - Explanation: if there is a new item in en.json, then it should always be copied to all other language files, because if it is not, then the extension will not fall back to the default language: English (as stated in the manifest.json), but it will instead show the internal names from code.
-  - imaginable contraindications:   _(probably not required to bring denied pull requests to zero/minimum/1%° (1 in 1000)_ 
+  - it is likely that all pull requests will be merged (accepted).
+  - Explanation: if there is a new item in en.json, then it should always be copied already to all other language files, because if it is not, then the extension will not fall back to the default language: English (as stated in the manifest.json), but it will instead show the internal names from code.
+  - imaginable contraindications:   _(probably not required to bring denied pull requests to zero/minimum or 1%° (1 in 1000)_ 
   - Same names in Code & English.
   - International names in Code (emojis / simplified english)
-  - Of course the Example above exists only based on the annoying part of Browser-Extension formality:  However it will be faster to build this than changing all web browsers...And worth it still even if they start changing today.
+  - Of course the Example above exists only based on an annoying part of Browser-Extension formality.  However it will be faster/easier to build this than the world (web browsers) changing such a standard. And worth it still even if they'd start changing today.
 
 
