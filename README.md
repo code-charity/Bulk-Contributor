@@ -3,11 +3,11 @@
 - Did you hear about Wikipedia / MediaWiki Bots? ( https://en.wikipedia.org/wiki/Wikipedia:Bots ) 
   - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
      - **What about Bots making Pull requests in global Open-Source projects?💡?**
-     - Goal / 'Milestone1':   
-          - Quantity:  > 1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** spending only < 3000 hours here*
-          - Quality: Denied pull requests < 10% and average amount of 👍❤'s per pull request > 0.5? (initially people get used to it)    
+     - **Goal / 'Milestone1':**  
+          - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** spending only < 2000 hours here* So donations could be raised for hungry people. Old News: There is Abundance. And opportunity, only society, thats is bitter... 🤔
+          - **Quality:** Denied pull requests < 10% & average amount of 👍❤'s per pull request > 0.5? (initially, before people get used to it)    
           
-_*And low server costs. A task worth >$5 often only costs <$0.001 in electricitiy. So donations could be raised for hungry people. Old News: There is Abundance. And opportunity, only society, thats is bitter..._ 🤔 
+_*And low server costs. A task worth >$5 often only costs <$0.001 in electricitiy. _ 
 
 # To-Do
 - much of what Wikipedia Bots do, simple typos, grammar, formating.
