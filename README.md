@@ -1,237 +1,27 @@
-`thinking regularly, thinking universally, thinking mathematically`
+_Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your niche. That is as big as your niche is, if we can fix it for everybody._
 
-# List of Patterns 🎇 'Pattern-Collector'      
-The* ['awesome List'](https://github.com/sindresorhus/awesome#contents) of Patterns        
-\*_(there seems to be no other repo yet! So Please edit this draft  wildy 🎉 (Spreadsheet & Readme))_ 
+- Did you hear about Wikipedia / MediaWiki Bots? ( https://en.wikipedia.org/wiki/Wikipedia:Bots ) 
+  - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
+     - **What about global Open-Source Pull-Requests Bots?**
+     - Goal / 'Milestone1':   
+           - Quantity:  >1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** with at least 30 times fewer hours*
+           - Quality: Denied pull requests < 10% and average amount of 👍❤'s per pull request > 0.5? (initially people get used to it)    
 
-Expressions make bite-sized tools & co-work 🍿🤏😎 
-Searching this list you pre-define the scope of your goal, and thus you will more be more efficient
-than searching for NPMs (Node.js packages) or Stack Overflow Answers. (once this list is filled well)
+* _And low server costs. A task worth >$5 often only costs <$0.001 in electricitiy. So donations could be raised for hungry people. Old News: There is Abundance. And opportunity, only society, thats is bitter..._ 🤔 
 
-## 1. **Reg**ular **Ex**pressions(=Search Patterns=Data format definitions.) 
-Regex are most common & most efficient to type. (Despite they are one of the oldest dicsiplines in programming to make sense of data, convert it, clean it or spell-check it. 
-https://en.wikipedia.org/wiki/Regular_expression)   
-| Common Data Formats² | efficient pattern for raw data³| *replace / correction*) |
-| --: | :-: | :--|  
-|ISBN |||
-|Youtube Video ID |||
-| **Hashes, Public Keys, Signatures** | pattern | *replace* |
-| MD6 |||
-| SHA256, Bitcoin, ... |||
-| **Convert** | pattern | **replace** |
-MarkDown links to HTML links |`\[([^\]]*)\]\(([^\)]*)\)`|`<a href="$2">$1</a>`|
-`List of Patterns` 2 Javascript |\\\|\`([^\`]\*)\`\\\|\`([^\`]\*)\`\\\||`replace ($1,"$2");`|
-Javascript 2 Python | _..(..)..(..)..(..)..(..).._|_$9$7$2$8$4$3_|
-
-*² date, postal code, formal greeting, formal __, ...* <br> _³ matching typos too, as long as that's still unique / unique enough_
-
-[**Full List of 1000s**](https://github.com/code4charity/The-Regex-Collector--Queries--Patterns/blob/main/README.md#all-regex)
-
-## 1.1 Pre-processing Patterns 
-A List of Patterns / Regex can automatically be analyzed for similarities and thus be combined in a preprocessing step. i.e. Preprocessing might Reduce Input data by 90% already in half the time. 
-
-## 1.2 Automatic pattern generation
-
-## 2. Contextual & Semantic patterns 
-#### word-lists, topics, frequencies, thesaurus, antonyms,  semantic dictionaries, psychologic & sentiment dictionaries
-wordnet, framenet, google ngrams, google trends, ....
-#### Google Search: 
-~synonyms a|b AROUND(3) c|d  -e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z    
-https://ahrefs.com/blog/google-advanced-search-operators/
-#### Human Grammar & Natural language processing (NLP):  
-https://github.com/edobashira/speech-language-processing#readme
-
-## 3. Structured Data. Querying Public Databases & the internet. SPARQL, SQL, NoSQL
-#### Semantic web
-#### WikiData
-#### AWS public databases
-
-## 4. Merging the above "1.-3."
-### vs 5. Human work VS machine learning models
-
-----
-
-# All Regex  
-### https://docs.google.com/spreadsheets/d/1EjeZ2RtNpM_mANdO1VPXmZmbIb5vANUXodPBFtdg3zU/edit
-- Others Lists  // potential Sources: 
-- Compare:  https://www.mulesoft.com/exchange/?type=connector&view=list   (>10000 'enterprise converts')
-
-| name | pattern | replace | language |
-| --: | :-: | :--|  --: |
-| | | | regex |
-| | | | google | 
-| | | | css |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
+#To-Do
+- much of what Wikipedia Bots do, simple typos, grammar, format.
+- specific format errors of readme.md's 
+Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns
+- syntax debugging in all file types / code languages. 
+- **Specific Category Example** ( / _"Everybody might know something from their niche..."_ ) - ...the following tiny, rare task alone might have been done a million times in history! (by 1000s of people)
+  - Syncing lines from all Browser-Extensions, from their english languages files (en/messages.json), to all their other existing languages files.  (_specifically  ((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )
+  - this task wont mean a lot every time. However developers will feel good to see it & start to expect more pull requests.
+  - is unlikely any pull requests will be denied.
+  - Explanation: if there is a new item in en.json, then it should always be copied to all other language files, because if it is not, then the extension will not fall back to the default language: English (as stated in the manifest.json), but it will instead show the internal names from code.
+  - imaginable contraindications:   _(this might already bring denied pull requests to zero/minimum/1%°° (1 in 100,000)_ 
+  - Same names in Code & English.
+  - International names in Code (emojis / simplified english)
+  - Of course the Example above exists only based on the annoying part of Browser-Extension formality:  However it will be faster to build this than changing all web browsers...And worth it still even if they start changing today.
 
 
