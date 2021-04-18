@@ -22,6 +22,6 @@ _Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Que
   - imaginable contraindications:   _(probably not required to bring denied pull requests to zero/minimum or 1%° (1 in 1000)_ 
   - Same names in Code & English.
   - International names in Code (emojis / simplified english)
-  - Of course the Example above exists only based on an annoying part of Browser-Extension formality.  However it will be faster/easier to build this than the world (web browsers) changing such a standard. And worth it still even if they'd start changing today.
+  - Of course the Example above exists only **based on an annoying part of** Browser-Extension-**formality.  However it will be faster/easier to build this than the world** (/web browsers)**changing such a standard. And worth it still even if they'd start changing today.**
 
 
