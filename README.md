@@ -1,9 +1,9 @@
-<code>**Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your field. That is as big as your niche is, if we can fix it for everybody.**</code>
+### <code>Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your field. That is as big as your niche is, if we can fix it for everybody.</code>
 
-- Did you hear about Wikipedia / MediaWiki Bots? ( https://en.wikipedia.org/wiki/Wikipedia:Bots ) 
-  - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
-     - **What about Bots making Pull requests in global Open-Source projects?💡?**
-     - **Goal / 'Milestone1':**  
+### Did you hear about Wikipedia / MediaWiki Bots? ( https://en.wikipedia.org/wiki/Wikipedia:Bots ) 
+ - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
+      - **What about Bots making Pull requests in global Open-Source projects?💡?**
+      - **Goal / 'Milestone1':**  
           - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** spending only < 2000 hours here* So donations could be raised for hungry people. Old News: There is Abundance. And opportunity, only society, thats is bitter... 🤔
           - **Quality:** Denied pull requests < 10% & average amount of 👍❤'s per pull request > 0.5? (initially, before people get used to it)    
           
