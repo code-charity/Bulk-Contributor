@@ -1,6 +1,6 @@
 ### <code>Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your field. That is as big as your niche is, if we can fix it for everybody.</code>
 
-### Did you hear about Wikipedia / MediaWiki Bots? ( https://en.wikipedia.org/wiki/Wikipedia:Bots ) 
+### Did you hear about [Wikipedia/MediaWiki Bots?](https://en.wikipedia.org/wiki/Wikipedia:Bots) 
  - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
       - **What about Bots making Pull requests in global Open-Source projects?💡?**
       - **Goal / 'Milestone1':**  
@@ -10,8 +10,7 @@
 _*And low server costs. A task worth >$5 often only costs <$0.001 in electricitiy._ 
 
 # To-Do
-- much of what Wikipedia Bots do, simple typos, grammar, formating.
-_Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns_
+- much of what Wikipedia Bots do, simple typos, grammar, formating. <br> _Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns_
 - specific errors of readme.md's 
 - syntax debugging in all file types, formalities and code languages. 
   - **Specific Category Example:** ( from our experience ) the following tiny, rare task alone might have been done a million times in history (by 1000s of people)
