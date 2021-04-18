@@ -1,4 +1,4 @@
-<code>_Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your field. That is as big as your niche is, if we can fix it for everybody._</code>
+<code>**Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your field. That is as big as your niche is, if we can fix it for everybody.**</code>
 
 - Did you hear about Wikipedia / MediaWiki Bots? ( https://en.wikipedia.org/wiki/Wikipedia:Bots ) 
   - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
