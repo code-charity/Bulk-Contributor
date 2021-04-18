@@ -1,4 +1,4 @@
-<code>_Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your niche. That is as big as your niche is, if we can fix it for everybody._</code>
+<code>_Doing everything repetitive that humans don't like. Not only clean-ups / typo corrections. You might know something specific from your field. That is as big as your niche is, if we can fix it for everybody._</code>
 
 - Did you hear about Wikipedia / MediaWiki Bots? ( https://en.wikipedia.org/wiki/Wikipedia:Bots ) 
   - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
@@ -14,7 +14,7 @@
 - specific format errors of readme.md's 
 Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns
 - syntax debugging in all file types / code languages. 
-- **Specific Category Example...** ( _"Everybody might know something from their niche..."_ ) <br> ...the following tiny, rare task alone might have been done a million times in history (by 1000s of people)
+- **Specific Category Example:** ( from our experience ) the following tiny, rare task alone might have been done a million times in history (by 1000s of people)
   - Syncing lines from all Browser-Extensions, from their english languages files (en/messages.json), to all their other existing languages files.  (_specifically  https://((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )
   - this task wont mean a lot every time. However developers will feel good to see it & start to expect more pull requests.
   - it is unlikely than any pull-requests will be denied.
