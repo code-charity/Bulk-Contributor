@@ -4,9 +4,9 @@
  - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
       - **What about Bots making Pull requests in global Open-Source projects?💡?**
       - **Goal / 'Milestone1':**  
-          - **Quality:** Denied pull requests < 10% & average amount of 👍/❤'s per pull request > 0.5? (initially, before people get used to it)   
-          - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours.  **Clain: The goal will be very efficient! 😱** spending only < 3000 hours here. Or < 3% (_Efficiency could raise donations against hunger etc... Old News: There is Abundance. And opportunity. (Only society, that can be bitter... 🤔) (low server costs too. A task worth >$5 often only costs <$0.001 in electricitiy.)_
-  
+          - **Quantity:** > 1 million automatic pull requests // worth >100.000 working hours.  **Claim: Reaching this goal will be very efficient! 😱** spending only < 3000 hours here. Or < 3% (_Efficiency could raise donations against hunger etc... Old News: There is Abundance. And opportunity. (Only society, that can be bitter... 🤔) (low server costs too. A task worth >$5 often only costs <$0.001 in electricitiy.)_
+          - **Quality:** ratio of denied pull requests < 10% & average amount of 👍/❤'s per pull request > 0.5? (initially, before people get used to it)   
+    
 # To-Do
 - much of what Wikipedia Bots do, simple typos, grammar, formating. 
 - specific errors of readme.md's 
