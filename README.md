@@ -24,6 +24,6 @@
            - International labels in Code (emojis / simplified english / ???)
   - Of course the Example above exists only **based on an complicated part of** (Browser-Extension-)**formality.  However it will be faster/easier to build this than the world** (/web browsers) improving such a standard ( / worth it still even if they'd start today)
   - **Please add more examples:**
-  - **Example1**
-  - **Example2**
-  - **Example3** 
+     - **Example1**
+     - **Example2**
+     - **Example3** 
