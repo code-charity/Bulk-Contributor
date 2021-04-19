@@ -5,7 +5,7 @@
       - **What about Bots making Pull requests in global Open-Source projects?💡?**
       - **Goal / 'Milestone1':**  
           - **Quality:** Denied pull requests < 10% & average amount of 👍/❤'s per pull request > 0.5? (initially, before people get used to it)   
-          - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours: Hypothesis: **Probably easy 😱** spending only < 3000 hours here. Or < 3% (_Efficiency could raise donations against hunger etc. Old News: There is Abundance. And opportunity, only society, that can be bitter... 🤔  (low server costs. A task worth >$5 often only costs <$0.001 in electricitiy.)_
+          - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours. (Hypothesis:) **Probably easy 😱** spending only < 3000 hours here. Or < 3% (_Efficiency could raise donations against hunger etc. Old News: There is Abundance. And opportunity, only society, that can be bitter... 🤔  (low server costs. A task worth >$5 often only costs <$0.001 in electricitiy.)_
   
 # To-Do
 - much of what Wikipedia Bots do, simple typos, grammar, formating. 
@@ -20,3 +20,7 @@
            - Same names(labels) in Code & English.
            - International labels in Code (emojis / simplified english / ???)
    - Of course the Example above exists only **based on an complicated part of** (Browser-Extension-)**formality.  However it will be faster/easier to build this than the world** (/web browsers) improving such a standard ( / worth it still even if they'd start today)
+     -  **Please add more examples to assess this initiative further.**
+  - Example1
+  - Example2
+  - Example3 
