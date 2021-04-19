@@ -4,10 +4,9 @@
  - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval )
       - **What about Bots making Pull requests in global Open-Source projects?💡?**
       - **Goal / 'Milestone1':**  
-          - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** spending only < 2000 hours here* _(So donations could be raised for hungry people. Old News: There is Abundance. And opportunity, only society, thats is bitter... 🤔)_
-          - **Quality:** Denied pull requests < 10% & average amount of 👍/❤'s per pull request > 0.5? (initially, before people get used to it)    
-          
-_*And low server costs. A task worth >$5 often only costs <$0.001 in electricitiy._ 
+          - **Quality:** Denied pull requests < 10% & average amount of 👍/❤'s per pull request > 0.5? (initially, before people get used to it)   
+          - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours: **Probably easy 😱** spending only < 2000 hours here ( _And low server costs. A task worth >$5 often only costs <$0.001 in electricitiy. Efficiency could raise donations against hunger etc. Old News: There is Abundance. And opportunity, only society, thats is bitter... 🤔)_
+  
 
 # To-Do
 - much of what Wikipedia Bots do, simple typos, grammar, formating. <br> _Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns_
@@ -22,5 +21,3 @@ _*And low server costs. A task worth >$5 often only costs <$0.001 in electriciti
            - Same names(labels) in Code & English.
            - International labels in Code (emojis / simplified english / ???)
    - Of course the Example above exists only **based on an complicated part of** (Browser-Extension-)**formality.  However it will be faster/easier to build this than the world** (/web browsers) improving such a standard ( / worth it still even if they'd start today)
-
-
