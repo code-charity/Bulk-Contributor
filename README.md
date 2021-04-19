@@ -8,7 +8,7 @@
           - **Quantity:**  > 1 million automatic pull requests // worth >100.000 working hours: Hypothesis: **Probably easy 😱** spending only < 3000 hours here. Or < 3% (_Efficiency could raise donations against hunger etc. Old News: There is Abundance. And opportunity, only society, that can be bitter... 🤔  (low server costs. A task worth >$5 often only costs <$0.001 in electricitiy.)_
   
 # To-Do
-- much of what Wikipedia Bots do, simple typos, grammar, formating. <br> _Related Repo (draft:)  https://github.com/code4charity/the-RegEx-Collector--Queries--Patterns_
+- much of what Wikipedia Bots do, simple typos, grammar, formating. 
 - specific errors of readme.md's 
 - syntax debugging in all file types, formalities and code languages. 
   - **Specific Category Example:** ( from our experience ) the following tiny, rare task alone might have been done a million times in history (by 1000s of people)
