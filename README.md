@@ -21,6 +21,6 @@ _*And low server costs. A task worth >$5 often only costs <$0.001 in electriciti
     - imaginable contraindications: <br>_(probably not required to bring denied pull requests to zero/minimum or 1%° (1 in 1000)_ 
        - Same names(labels) in Code & English.
        - International labels in Code (emojis / simplified english / ???)
-    - Of course the Example above exists only **based on an annoying part of**(Browser-Extension-)**formality.  However it will be faster/easier to build this than the world** (/web browsers) changing such a standard. (if ever). And **worth it still even if they'd start changing today**
+    - Of course the Example above exists only **based on an annoying part of** (Browser-Extension-)**formality.  However it will be faster/easier to build this than the world** (/web browsers) changing such a standard. (if ever). And **worth it still even if they'd start changing today**
 
 
