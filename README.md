@@ -1,7 +1,7 @@
 > #### <code>_Getting done everything repetitive that humans don't like. Not only typo clean-ups. You might know something specific from your field, that is as big as your niche is, if we can fix it for everybody._</code>
 
 ### Did you hear about [Wikipedia/MediaWiki Bots?](https://en.wikipedia.org/wiki/Wikipedia:Bots) 
- - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval ) (_ compare : https://github.com/huginn/huginn , https://github.com/actionsflow/actionsflow _)
+ - 2500 such routines are approved there ( https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval ) ( _compare : https://github.com/huginn/huginn , https://github.com/actionsflow/actionsflow_)
       - **WWWWhat about Bots making Pull requests in global Open-Source projects?💡?**
       - **Goal / 'Milestone1':**  
           - **Quantity:** > 1 million automatic pull requests // worth >100.000 working hours.  **Claim: Reaching this goal will be very efficient! 😱** spending only < 3000 hours here. Or < 3% (_Efficiency could raise donations against hunger etc... Old News: There is Abundance. And opportunity. (Only society, that can be bitter... 🤔) (low server costs too. A task worth >$5 often only costs <$0.001 in electricitiy.)_
