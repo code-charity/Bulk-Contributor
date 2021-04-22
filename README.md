@@ -19,9 +19,8 @@
 - syntax debugging in all file-types, formalities and code languages. 
 - Loss-less compression of machine files.
 - ...
----
-
- - **Specific Category Examples:** (from our experience) the following tiny/rare task alone might has been done a million times in history (by 1000s of people)
+  - ...
+- **Specific Category Examples:** (from our experience) the following tiny/rare task alone might has been done a million times in history (by 1000s of people)
     - **Browser-Extensions**: Syncing lines from their English language file (_en/messages.json_) to all their other existing languages files. (_specifically  https://((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )   ( google wont show all: [inurl:messages.json  site:github.com OR site:bitbucket.com](https://www.google.com/search?q=inurl%3Amessages.json++site%3Agithub.com+OR+site%3Abitbucket.com) )
       - this task wont mean a lot every time. However developers will feel good to see it & start to expect more pull requests.
       - it is likely that all pull requests for this will be merged(=accepted).
