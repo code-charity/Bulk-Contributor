@@ -1,7 +1,7 @@
 > #### <code>_Getting done everything repetitive that humans don't like. Not only typo clean-ups. You might know something specific from your field, that is as big as your niche is, if we can fix it for everybody._</code>
 
 ### Did you hear about [Wikipedia/MediaWiki Bots?](https://en.wikipedia.org/wiki/Wikipedia:Bots) 
- - 2500 such routines are approved there ( [en.wikipedia.org/Category:Approved_Wikipedia_bot_requests_for_approval](https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval) ) ( + _compare : [huginn](https://github.com/huginn/huginn); [siteinspector](https://github.com/siteinspector/siteinspector), [actionsflow](https://github.com/actionsflow/actionsflow), [stackstorm](https://exchange.stackstorm.org),.._ )
+ - 2500 such routines are approved there ( [en.wikipedia.org/Category:Approved_Wikipedia_bot_requests_for_approval](https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval) ) ( + _compare : [**huginn**](https://github.com/huginn/huginn); [**siteinspector**](https://github.com/siteinspector/siteinspector), [actionsflow](https://github.com/actionsflow/actionsflow), [**stackstorm**](https://exchange.stackstorm.org), [github action for code typos](https://github.com/marketplace/typo-ci),..._ )
  
       - **WWWWhat about Bots making Pull requests in global Open-Source projects?💡?**
       - **Goal / 'Milestone1':**  
