@@ -7,7 +7,7 @@
           - **Quantity:** > 1 million automatic pull requests // worth >100,000 working hours.  **Claim: Reaching this goal will be very efficient! 😱** spending only < 3000 hours here. Or < 3% (_Efficiency could raise donations against hunger etc... Old News: There is Abundance. And opportunity. (Only society, that can be bitter... 🤔) (low server costs too. A task worth >$5 often only costs <$0.001 in electricitiy.)_
           - **Quality:** ratio of denied pull requests < 10% & average amount of 👍/❤'s per pull request > 0.5? (initially, before people get used to it)   
      -  Compare: A tool to search for API keys / private keys in a repo was awarded $7500 'bug bounty' by GitHub [Git Hound](https://github.com/tillson/git-hound) so assumably this will result in Github notifications already? vs. [wild-hunt](https://github.com/d1vious/git-wild-hunt#what-checks-get-run-regexesjson) 
-       - So you can tell this will intersect much with our Repo [Awesome Patterns](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data)
+        - So you can tell this will intersect much with our Repo [Awesome Patterns](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data)
    
 # To-Do
 - much of what Wikipedia Bots do: 
