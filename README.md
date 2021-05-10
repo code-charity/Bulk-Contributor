@@ -10,7 +10,8 @@
  - So you can tell this will intersect much with ['awesome Patterns'](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data)
    
 # To-Do
-- much of what Wikipedia Bots do: 
+- anything that enhances & fits in line with existing  [.github/workflow](https://docs.github.com/en/actions) routines  
+- much of what Wikipedia Bots do everywhere: 
     - simple(non-debatable)  typos, grammar, formating.   
     - Periodic updates of static data (that is intentionally(or practically) marked up though and just waiting). 
 - specific errors of readme.md's 
