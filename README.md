@@ -1,14 +1,18 @@
 > ##### <code><code>_Robotic Pull Requests - Getting done everything repetitive that humans don't like. Not only debugging or typo clean-ups. You might know something specific from your field, that is as big as your field is, if we can fix it for everybody._</code></code>
-# Did you hear about [Wikipedia-&MediaWiki-Bots?](https://en.wikipedia.org/wiki/Wikipedia:Bots) 
- - 2500 such routines are approved there:  [en.wikipedia.org/Category:Approved_Wikipedia_bot_requests_for_approval](https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval) (  + _compare : [**huginn**](https://github.com/huginn/huginn); ([**siteinspector**](https://github.com/siteinspector/siteinspector), [actionsflow](https://github.com/actionsflow/actionsflow), [**stackstorm**](https://exchange.stackstorm.org), [github action for code typos](https://github.com/marketplace/typo-ci),..._ )
-      - **WWWWhat about Bots also making Pull requests in global Open-Source projects?💡💡**
-         - **Goal / Milestone NR.1 :**  
-            - **Quantity:** > 1 million automatic pull requests, worth >100,000 working hours.  **Claim: Reaching this goal will be very efficient! 😱** spending only < 3000 hours here. Or < 3% of the working hours to save (_that could motivate the beneficiaries to donations against hunger etc... Old News: There is Abundance of opportunity. (Only society, that can be bitter... 🤔) (low server costs too. A task worth >$5 often only costs <$0.001 in electricitiy.)_
-            - **Quality:** ratio of denied pull requests < 10% & average amount of 👍/❤'s per pull request > 0.5? (initially, before people get used to it)   
-         -  Compare: A tool to search for API keys / private keys etc in a repo [Git Hound](https://github.com/tillson/git-hound/tree/master/internal/app) - was awarded $7500 'bug bounty' by GitHub - so assumably this will result in Github notifications already? - vs. [wild-hunt](https://github.com/d1vious/git-wild-hunt#what-checks-get-run-regexesjson) 
-       - So you can tell this repo will intersect with Github Actions dev-modules and ['awesome Patterns'](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data), with the only difference that we will select whole series of things, each of which does not actually any human attention.
-   
-# Things To-Do
+  - **wwwhat about Bots also making Pull requests in global Open-Source projects?💡💡**
+
+      - **Vision "Milestone 1" :**  
+         - **Quantity:** > 1 million automatic pull requests, worth > 100,000 working hours.
+              - **Claim: Reaching this goal will be very efficient! 😱** spending only < 3000 hours here. Or < 3% of the working hours to save
+                  -   _that could motivate the beneficiaries to donations to us or against hunger etc... Old News: There is Abundance of opportunity. (Only society, that can be bitter... 🤔) (low server costs too. A task worth >$5 often only costs <$0.001 in electricitiy.)_
+         - **Quality to surpass (at least initially, before people get used to it)  :** Denied pull requests < 10%.  Average amount of 👍/❤'s per pull request > 0.5?  
+      -  Compare: A tool to search for API keys / private keys etc in a repo [Git Hound](https://github.com/tillson/git-hound/tree/master/internal/app) - was awarded $7500 'bug bounty' by GitHub - so assumably this will result in Github notifications already? - vs. [wild-hunt](https://github.com/d1vious/git-wild-hunt#what-checks-get-run-regexesjson) 
+    - So this repo will would help ['awesome Patterns'](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data)
+
+# 1. AI can help
+# 2. Did you hear about [Wikipedia-&MediaWiki-Bots?](https://en.wikipedia.org/wiki/Wikipedia:Bots) 
+ - 2500 such routines are approved there:  [en.wikipedia.org/Category:Approved_Wikipedia_bot_requests_for_approval](https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval) (  + _compare : [**huginn**](https://github.com/huginn/huginn); ([**siteinspector**](https://github.com/siteinspector/siteinspector), [actionsflow](https://github.com/actionsflow/actionsflow), [**stackstorm**](https://exchange.stackstorm.org), [github action for code typos](https://github.com/marketplace/typo-ci),..._ )   
+# 3. Things To-Do
 - anything that enhances & fits in line with existing  [.github/workflow](https://docs.github.com/en/actions) routines  
 - much of what Wikipedia Bots do everywhere: 
     - simple(non-debatable)  typos, grammar, formating.   
