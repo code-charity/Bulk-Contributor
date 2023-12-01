@@ -6,9 +6,9 @@
               - **Claim: Reaching this goal will be very efficient! 😱** spending only < 3000 hours here. Or < 3% of the working hours to save
                   -   _that could motivate the beneficiaries to donations to us or against hunger etc... Old News: There is Abundance of opportunity. (Only society, that can be bitter... 🤔) (low server costs too. A task worth >$5 often only costs <$0.001 in electricitiy.)_
          - **Quality to surpass (at least initially, before people get used to it)  :** Denied pull requests < 10%.  Average amount of 👍/❤'s per pull request > 0.5?  
+            - (So this project repo would collect ['awesome Patterns'](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data))
       -  Compare: A tool to search for API keys / private keys etc in a repo [Git Hound](https://github.com/tillson/git-hound/tree/master/internal/app) - was awarded $7500 'bug bounty' by GitHub - so assumably this will result in Github notifications already? - vs. [wild-hunt](https://github.com/d1vious/git-wild-hunt#what-checks-get-run-regexesjson) 
-    - So this repo will would help ['awesome Patterns'](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data)
-
+  
 # 1. AI can help
 # 2. Did you hear about [Wikipedia-&MediaWiki-Bots?](https://en.wikipedia.org/wiki/Wikipedia:Bots) 
  - 2500 such routines are approved there:  [en.wikipedia.org/Category:Approved_Wikipedia_bot_requests_for_approval](https://en.wikipedia.org/wiki/Category:Approved_Wikipedia_bot_requests_for_approval) (  + _compare : [**huginn**](https://github.com/huginn/huginn); ([**siteinspector**](https://github.com/siteinspector/siteinspector), [actionsflow](https://github.com/actionsflow/actionsflow), [**stackstorm**](https://exchange.stackstorm.org), [github action for code typos](https://github.com/marketplace/typo-ci),..._ )   
