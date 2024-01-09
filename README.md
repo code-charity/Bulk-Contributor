@@ -25,9 +25,8 @@
 - **Specific Category Examples:** (from our experience) 
      - **Browser-Extension Manifest v3**:  We can automate some of the work that becomes inevitable to all extension by ~2023~ (2025? never?) (Through some regex etc.) https://github.com/code4charity/Manifest-v3     
      - _the following tiny (almost rare) task alone might has been done a million times in history (by 1000s of people):_ <br>        **Browser-Extension translations**:   Syncing lines from their English language file (_en/messages.json_) to all their other existing languages files. (_specifically  https://((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )   ( google wont show all: [inurl:messages.json  site:github.com OR site:bitbucket.com](https://www.google.com/search?q=inurl%3Amessages.json++site%3Agithub.com+OR+site%3Abitbucket.com) )
-      - this task wont mean a lot every time. However developers might feel good to see it & start to expect more pull requests.
-      - it is likely that most pull requests for this will be merged(=accepted).
-     - Explanation: if there is a new item in en.json, then it should always be copied already to all other language files, because if it is not, then the extension will not fall back to the default language: English (as stated in the manifest.json), but it will instead show the internal names from code.
+      - this task wont mean a lot every time. However developers might like to see it. So it is likely that most pull requests for this will be merged(=accepted).
+     - Explanation: if there is a new item in en.json, then it can be copied to all other language files, because if not, <del> then the extension will not fall back to the default language: English (as stated in the manifest.json), but it will instead show the internal names from code. </del> (really? historically?)
         - imaginable contraindications to look for: <br>_(even not required to bring denied pull requests to zero)_ 
            - International labels in Code (emojis / simplified english / ???)    (makes the edit bad)
            - Same names(labels) (in Code & English messages.json)   (makes the edit optional) 
