@@ -24,13 +24,10 @@
 - ...
 - **Specific Category Examples:** (from our experience) 
      - **Browser-Extension Manifest v3**:  We can automate some of the work that becomes inevitable to all extension by ~2023~ (2025? never?) (Through some regex etc.) https://github.com/code4charity/Manifest-v3     
-     - _the following tiny (almost rare) task alone might has been done a million times in history (by 1000s of people):_ <br>        **Browser-Extension translations**:   Syncing lines from their English language file (_en/messages.json_) to all their other existing languages files. (_specifically  https://((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )   ( google wont show all: [inurl:messages.json  site:github.com OR site:bitbucket.com](https://www.google.com/search?q=inurl%3Amessages.json++site%3Agithub.com+OR+site%3Abitbucket.com) )
-      - this task wont mean a lot every time. However developers might like to see it. So it is likely that most pull requests for this will be merged(=accepted).
-     - Explanation: if there is a new item in en.json, then it <del>must</del> can be copied to all other language files, because if not, <del> then the extension will not fall back to the default language: English (as stated in the manifest.json), but it will instead show the internal names from code. </del> (really? historically?)
+     - _the following (almost rare) task alone might still has been done a million times in history (by 1000s of people):_ <br>        **Browser-Extension translations**:   Syncing lines from their English language file (_en/messages.json_) to all their other existing languages files, if they are simple and can be auto-translated properly. (_specifically  https://((GitHub|BitBucket).com|SoureForge.net|gitlab.io)/\w*/$BrowserExtensionName/_locales/[a-z][a-z][a-zA-Z_]?[A-Z]?[A-Z]?/**messages.json**_ )   ( google wont show all: [inurl:messages.json  site:github.com OR site:bitbucket.com](https://www.google.com/search?q=inurl%3Amessages.json++site%3Agithub.com+OR+site%3Abitbucket.com) )
+      - this task wont mean a lot every time. However developers might enjoy to see it. So it is likely that most pull requests for this will be merged(=accepted).
         - imaginable contraindications to look for: <br>_(even not required to bring denied pull requests to zero)_ 
            - International labels in Code (emojis / simplified english / ???)    (makes the edit bad)
-           - Same names(labels) (in Code & English messages.json)   (makes the edit optional) 
-  - Of course the Example above exists only **based on a complicated part of** (Browser-Extension-)**formality.  However such is everywhere and it will be faster/easier to build this than the world** (web browsers, www consortiums) improving such a standard (worth it still even if they'd start changing today and it would only run for some years.)
   - **Please add any examples:**
     - **Example 1:**
        - ...
