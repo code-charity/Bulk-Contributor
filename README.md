@@ -40,5 +40,5 @@
     - **Example 3:** 
        - ...
 
-<b> <i> Let's collecting more examples and sort by efficency. Cost of implemention. 
+<b> <i> (Let's collect more examples & sort by efficency. Cost of implemention.) 
      
