@@ -18,7 +18,7 @@
 - ...
 - ...
 ---
-- **So** this project repo could collect ['awesome Patterns'](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data
+- **So** this project repo could collect ['awesome Patterns'](https://github.com/code4charity/PATTERNs--The-RegEx-Collector-queries-ontologies-sql-sparql-nosql-structured-unstructured-data)
 - **And AI** can help with a lot.
 
 - (**Besides** for many popular, simple examples, ready made Github Actions exist might exist. So we could start with automatic pull request right away. )
